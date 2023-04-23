@@ -4,4 +4,9 @@
 - ReLU激活函数
   $$relu(x)=max(x,0)$$
 - Tanh激活函数
+- Tips：一般情况下tanh效果更好一点，其是rescaled的sigmoid函数
+
+### 参考资料：
+- [神经网络训练trick总结](https://mp.weixin.qq.com/s/QfSzmQT1XcZGphrD-z0qKA)
+
   
