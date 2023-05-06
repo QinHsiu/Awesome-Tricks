@@ -4,6 +4,7 @@
 - ReLU激活函数
   $$relu(x)=max(x,0)$$
 - Tanh激活函数
+  $$tanh(x)=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}$$
 - Tips：一般情况下tanh效果更好一点，其是rescaled的sigmoid函数
 
 ### 参考资料：
