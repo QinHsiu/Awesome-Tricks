@@ -1,3 +1,10 @@
 - Other Tricks
   - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
   - [样本不均衡](https://mp.weixin.qq.com/s/CxKww2VWanDTzG9VBef6dg)
+  - [模型压缩](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ)
+  - [Pytorch剪枝](https://mp.weixin.qq.com/s/LFuU495F7LuGHebDKN4swA)
+  - [模型并行化](https://mp.weixin.qq.com/s/4yMZTSbeYgzaYGRElhLY1Q)
+  - [GPU多卡并行](https://mp.weixin.qq.com/s/Dph7uLJUIc1zOWNRxQ2q5Q)
+  - [Cuda OOM](https://mp.weixin.qq.com/s/EHxKll5nGHkaaqlKpGsb5A)
+  - [pytorch显存管理](https://mp.weixin.qq.com/s/W9wOIBXTUjWubBNI2dzhrw)
+  - [多Loss调参数](https://mp.weixin.qq.com/s/_zZqeuu1bcnayEjNcSEY0g)
