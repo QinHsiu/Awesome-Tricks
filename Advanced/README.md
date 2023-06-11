@@ -1,0 +1,3 @@
+- Other Tricks
+  - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
+  - [样本不均衡](https://mp.weixin.qq.com/s/CxKww2VWanDTzG9VBef6dg)
