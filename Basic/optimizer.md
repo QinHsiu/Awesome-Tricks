@@ -3,3 +3,7 @@
   - 小批量随机梯度下降，对每一个小批量内的数据计算损失并进行梯度反向传播，这样可以使用矩阵计算加速并行，引入随机性可以避免困在局部最优解
 - 常用的优化更新策略
   - 动量更新
+- 其他资源
+    - [梯度下降算法](https://mp.weixin.qq.com/s/dmwMPnOsr15eFTQOpmf8Og)
+    - [梯度下降算法](https://mp.weixin.qq.com/s/48vMmq-3Js374sh0HpAP0A)
+    - [优化算法相关理论](https://mp.weixin.qq.com/s/pj_Vs_S5Lkc0h3qXOv2mYQ)
