@@ -1,3 +1,11 @@
+- 学习范式
+  - [learning-paradigm](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/learning-paradigm.md)  
+- 训练范式
+  - [training-paradigm](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-paradigm.md)
+- 训练参数
+  - [training-parameters](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-parameters)
+- 训练问题  
+  - [training-problems](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-problems)
 - Other Tricks
   - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
   - [样本不均衡](https://mp.weixin.qq.com/s/CxKww2VWanDTzG9VBef6dg)
