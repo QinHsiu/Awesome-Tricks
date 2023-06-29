@@ -1,5 +1,16 @@
+- 数据增强
+  - [数据增强](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/data-augmentation.md)
+- 数据预处理
+  - [数据预处理](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/data-process.md)
+- 数据加载
+  - [数据加载](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/data-loader.md)
+- 损失函数
+  - [损失函数](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/loss.md)
+- 模型
+  - [模型](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/model.md)
 - 优化算法
   - [优化算法](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/optimizer.md)
 - 激活函数
-  - [激活函数](https://mp.weixin.qq.com/s/jiTBZr-8sm9HY5qcfNtsOA)
-  
+  - [激活函数](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/activate-function.md)
+- torch
+  - [torch](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/torch.md)  
