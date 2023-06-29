@@ -8,6 +8,8 @@
   - [损失函数](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/loss.md)
 - 模型
   - [模型](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/model.md)
+- 正则化
+  - [正则化](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/normalization.md)
 - 优化算法
   - [优化算法](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/optimizer.md)
 - 激活函数
