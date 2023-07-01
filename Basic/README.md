@@ -16,3 +16,9 @@
   - [激活函数](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/activate-function.md)
 - torch
   - [torch](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/torch.md)  
+- 其他
+  - [图解XGBoost](https://mp.weixin.qq.com/s/hhppifAprxqwE7ugeLazmQ)
+  - [transformer常见问题](https://mp.weixin.qq.com/s/vdO6DpVsW9fp4T4sJEU0XQ)
+  - [判别式与生成式](https://mp.weixin.qq.com/s/kH71KhsfxCIdIi37z5IFEA)
+  - [双塔模型张点tricks](https://mp.weixin.qq.com/s/DZ3xRIIOsDSHBvsDGburAQ)
+  - [VAE与CVAE](https://mp.weixin.qq.com/s/O7tXTzpmoasmz1t3Z4Ag2A)

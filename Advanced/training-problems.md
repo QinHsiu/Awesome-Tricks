@@ -1,2 +1,5 @@
 - 模型过拟合
   - 一般情况下模型的参数远远大于数据量的时候会出现过拟合的现象，这个时候可以考虑数据侧（增加数据量），模型侧（减少模型参数量、层数，加入L1、L2正则，加入层标准化、批量标准化，使用早停机制，dropout，数据增强等方法来缓解模型过拟合现象）
+  - [缓解模型过拟合](https://mp.weixin.qq.com/s/DygvuXbSL-798VH4czJspA)
+- 炼丹效率
+  - [炼丹效率](https://mp.weixin.qq.com/s/kwhx9DxuORDvh0p5vz8oRA)

@@ -7,3 +7,4 @@
     - [梯度下降算法](https://mp.weixin.qq.com/s/dmwMPnOsr15eFTQOpmf8Og)
     - [梯度下降算法](https://mp.weixin.qq.com/s/48vMmq-3Js374sh0HpAP0A)
     - [优化算法相关理论](https://mp.weixin.qq.com/s/pj_Vs_S5Lkc0h3qXOv2mYQ)
+    - [优化算法讲解](https://mp.weixin.qq.com/s/AEb5a0jct-5v8w2kV4iQXg)

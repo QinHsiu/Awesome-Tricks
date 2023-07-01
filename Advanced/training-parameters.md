@@ -3,5 +3,9 @@
   
 - batch size
   - 太大的batch size会减小的梯度下降的随机性，对模型的精度产生负面影响，大的batch size需要训练更多的epoch来获得比较好的效果；使用小批量可以帮助训练过程中跳出局部最小值，另外使得模型进行更加平缓的局部最小值，提高泛化性能；
-  
+
+- 超参数自动化
+  - [超参数自动化搜索](https://mp.weixin.qq.com/s/E2osIx2PEoR7ateEIN0FLQ)
+  - [竞赛中参数搜索技巧](https://mp.weixin.qq.com/s/Wx1WMvQQQUV46ckGbE3Eag)
+  - [WWW2022-MetaBalance](https://mp.weixin.qq.com/s/iJixbNLVPfARxndI0u5Lcg)
  

@@ -16,3 +16,8 @@
   - [Cuda OOM](https://mp.weixin.qq.com/s/EHxKll5nGHkaaqlKpGsb5A)
   - [pytorch显存管理](https://mp.weixin.qq.com/s/W9wOIBXTUjWubBNI2dzhrw)
   - [多Loss调参数](https://mp.weixin.qq.com/s/_zZqeuu1bcnayEjNcSEY0g)
+  - [竞赛中的tricks](https://mp.weixin.qq.com/s/LQfosmuVf2kFR13L-vUzew)
+  - [刷SOTA](https://mp.weixin.qq.com/s/yTYFUAsLef7Qa29DrcECZg)
+  - [Kaggle刷分tricks](https://mp.weixin.qq.com/s/h5ZWMGyVJjYSyC-5h5BeFA)
+  - [神经网络训练tricks](https://mp.weixin.qq.com/s/QfSzmQT1XcZGphrD-z0qKA)
+  - [强化学习](https://mp.weixin.qq.com/s/A6PujvGsOBuGjF2Mn3-s0A)

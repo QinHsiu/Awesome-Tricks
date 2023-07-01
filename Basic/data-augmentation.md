@@ -24,3 +24,6 @@
     ```
   - 灰度+高斯混合
         
+- 其他资源
+  - [图像增强方法](https://mp.weixin.qq.com/s/6xiGEQVzkCGcAthbr9qUOQ)
+  - [CV训练tricks](https://mp.weixin.qq.com/s/die5NJQijonKGHizoJkHFw)

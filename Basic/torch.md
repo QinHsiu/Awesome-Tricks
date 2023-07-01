@@ -84,7 +84,9 @@
 
 - 在输入时先进行batch归一化
 
-
+- 其他资源
+  - [pytorch训练tricks](https://mp.weixin.qq.com/s/M0kqoE2_mvGnCizLSwBvxQ)
+  - [pytorch训练提速](https://mp.weixin.qq.com/s/VF_qrl0ItNVZS6id-SURQg)
 
 
 
