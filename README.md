@@ -14,3 +14,5 @@ some amazing tricks for deep learning
   - training-paradigm 训练范式
   - training-parameters 训练参数
   - training-problems 训练问题
+- Others
+  - [C++部署](https://mp.weixin.qq.com/s/vu9vfMrPGhznSpGYIE-4eA)   
