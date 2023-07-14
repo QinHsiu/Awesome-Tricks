@@ -11,3 +11,4 @@
     - [最大熵](https://mp.weixin.qq.com/s/Z37XHuQ-WARw-omKZt9U9Q)
     - [时序预测相关损失函数](https://mp.weixin.qq.com/s/6Vy19Jh_vKrFyr0_-5XlfA)
     - [精确率与召回率](https://mp.weixin.qq.com/s/1sr49jNbOCwc8OYvdmpljA)
+    - [常用损失问题汇总](https://mp.weixin.qq.com/s/Z-PD3saq3eHL4nJiVjGaRg)
