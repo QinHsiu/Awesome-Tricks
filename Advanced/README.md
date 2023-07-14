@@ -7,6 +7,7 @@
 - 训练问题  
   - [training-problems](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-problems)
 - Other Tricks
+  - [大模型数据构造技巧](https://mp.weixin.qq.com/s/8SWFT5PydKdckydOIzDUTQ)
   - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
   - [样本不均衡](https://mp.weixin.qq.com/s/CxKww2VWanDTzG9VBef6dg)
   - [模型压缩](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ)
