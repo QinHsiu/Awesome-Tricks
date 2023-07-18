@@ -16,4 +16,5 @@ some amazing tricks for deep learning
   - training-problems 训练问题
 - Others
   - [C++部署](https://mp.weixin.qq.com/s/vu9vfMrPGhznSpGYIE-4eA)
-  - [深度学习tricks](https://mp.weixin.qq.com/s/PkUDeBmdvH29-tdH9n8oDw)   
+  - [深度学习tricks](https://mp.weixin.qq.com/s/PkUDeBmdvH29-tdH9n8oDw) 
+  - [Tricks知识汇总](https://www.blog.dailydoseofds.com/p/free-daily-dose-of-data-science-pdf) 
