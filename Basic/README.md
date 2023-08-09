@@ -18,6 +18,8 @@
   - [torch](https://github.com/QinHsiu/Awesome-Tricks/blob/main/Basic/torch.md)  
 - 其他
   - [图解XGBoost](https://mp.weixin.qq.com/s/hhppifAprxqwE7ugeLazmQ)
+  - [CatBoost](https://mp.weixin.qq.com/s/eDikTYDdCXnNFt-nW1UV7Q)
+  - [常用集成学习方法汇总](https://mp.weixin.qq.com/s/NFlF7Y0VWhSExQ30d9_ziw)
   - [transformer常见问题](https://mp.weixin.qq.com/s/vdO6DpVsW9fp4T4sJEU0XQ)
   - [判别式与生成式](https://mp.weixin.qq.com/s/kH71KhsfxCIdIi37z5IFEA)
   - [双塔模型张点tricks](https://mp.weixin.qq.com/s/DZ3xRIIOsDSHBvsDGburAQ)
