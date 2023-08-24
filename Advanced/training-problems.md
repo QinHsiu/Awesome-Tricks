@@ -3,7 +3,7 @@
 - 分布式训练
   - [框架中的分布式训练](https://mp.weixin.qq.com/s/yJSmWe3jMGdrAYERjeNiLQ)
 - 模型过拟合
-  -  ![avator](../Assets/overfitting.pngoverfitting.png)
+  -  ![avator](../Assets/overfitting.png)
   - 一般情况下模型的参数远远大于数据量的时候会出现过拟合的现象，这个时候可以考虑数据侧（使用数据增强增加训练数据量、采用交叉验证、使用特征筛选移除一些特征），模型侧（减少模型参数量、加入L1、L2正则、加入层标准化、批量标准化、使用早停机制、dropout等方法来缓解模型过拟合现象）
   - [缓解模型过拟合](https://mp.weixin.qq.com/s/DygvuXbSL-798VH4czJspA)
 - 炼丹效率
