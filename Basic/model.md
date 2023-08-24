@@ -6,6 +6,8 @@
   - 常用的技术有z-score、min-max、decimal scaling等，scale控制特征的重要性，大的scale的输出产生更大的误差，大的scale的输入特征可以主导网络对此特征的重视程度，产生更大的更新，一些特征本来取范围很小需要注意避免产生NaNs，在没有进行标准化时训练模型可能会增加模型的复杂程度，降低模型的收敛速度；
 - 正则化
   - 使用正则化技术一方面可以缓解模型出现的过拟合现象，一方面可以加快模型的收敛速度，常用的正则化方法有Dropout、随机过程、噪音、数据增强等；
+- 机器学习
+  - [XGBoost中常见的10个参数](https://mp.weixin.qq.com/s/OWkde_9FAT6TxoSr9AzlQw)
 - 神经网络
   - 单一的线性层网络结构
     一般的线性层网络可以看作对标量做了一个线性变换，其表达式如下所示，主要需要更新的参数包括两部分：权重和偏置
@@ -18,4 +20,7 @@
   - 自注意力机制(Self-Attention)
     - [MQA与GQA](https://mp.weixin.qq.com/s/B3Uv0tD4y-zCvclxx0_mOA)
   - 双向transformer(BERT)
+    - [BERT上分tricks](https://mp.weixin.qq.com/s/3FftA8jM2e-BkMMin3sywg)
   - 图神经网络(GNN)
+  - 模型的应用
+    - [时间序列预测中的深度学习算法简介](https://mp.weixin.qq.com/s/Ry3GKwasWwnrYumiSKKdyA)

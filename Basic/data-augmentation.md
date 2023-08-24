@@ -26,4 +26,5 @@
         
 - 其他资源
   - [图像增强方法](https://mp.weixin.qq.com/s/6xiGEQVzkCGcAthbr9qUOQ)
+  - [13个CV数据增强方法](https://mp.weixin.qq.com/s/U62qOajF-I72NmiWac0SqA)
   - [CV训练tricks](https://mp.weixin.qq.com/s/die5NJQijonKGHizoJkHFw)

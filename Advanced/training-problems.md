@@ -4,7 +4,11 @@
   - [框架中的分布式训练](https://mp.weixin.qq.com/s/yJSmWe3jMGdrAYERjeNiLQ)
 - 模型过拟合
   -  ![avator](../Assets/overfitting.png)
-  - 一般情况下模型的参数远远大于数据量的时候会出现过拟合的现象，这个时候可以考虑数据侧（使用数据增强增加训练数据量、采用交叉验证、使用特征筛选移除一些特征），模型侧（减少模型参数量、加入L1、L2正则、加入层标准化、批量标准化、使用早停机制、dropout等方法来缓解模型过拟合现象）
+  - 一般情况下模型的参数远远大于数据量的时候会出现过拟合的现象，这个时候可以考虑数据侧（使用数据增强增加训练数据量、采用交叉验证、使用特征筛选移除一些特征），模型侧（采用集成方法、减少模型参数量、加入L1、L2正则、加入层标准化、批量标准化、使用早停机制、dropout等方法来缓解模型过拟合现象）
+  - [10种常用方法用于缓解过拟合](https://mp.weixin.qq.com/s/ErJc-qMRlea58iVby40aSA)
+  - [金融量化防止过拟合](https://mp.weixin.qq.com/s/VXUCMIgNwGhYvHBdYQ1BFw)
   - [缓解模型过拟合](https://mp.weixin.qq.com/s/DygvuXbSL-798VH4czJspA)
+- 多损失
+  - [多损失训练](https://mp.weixin.qq.com/s/INDbcDcQ5SKwe9lOeYrSng)
 - 炼丹效率
   - [炼丹效率](https://mp.weixin.qq.com/s/kwhx9DxuORDvh0p5vz8oRA)

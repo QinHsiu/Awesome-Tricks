@@ -1,1 +1,2 @@
-
+- 使用神经ODE代替原先的反向传播
+    - [四万字详解Neural ODE：用神经网络去刻画非离散的状态变化](https://mp.weixin.qq.com/s/CDJ6OABI5iDNUqJbaLrGng)

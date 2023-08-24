@@ -2,6 +2,7 @@
 - 常用损失函数
     - [19种损失函数](https://mp.weixin.qq.com/s/1h4T5yzQqaiHosWWklCY2A)
     - [类别不均衡损失](https://mp.weixin.qq.com/s/lYmgf1RoX8N4rbP_f-Ftsw)
+    - [时间序列损失函数综述](https://mp.weixin.qq.com/s/uqvJZ77gt8Laq6p0IAaaLA) [Paper](https://arxiv.org/abs/2211.02989)
 
 - 距离与相似性度量
     - [距离与相似性度量](https://mp.weixin.qq.com/s/T3LSNYjAdlQR2cKhMjHLRA)

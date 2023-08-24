@@ -7,6 +7,7 @@
 - 超参数自动化
   - [重参数化](https://mp.weixin.qq.com/s/KaJAR72W_1Ji_yOZNLmq9g)
   - [超参数自动化搜索](https://mp.weixin.qq.com/s/E2osIx2PEoR7ateEIN0FLQ)
+  - [机器学习中的超参数搜索方法](https://mp.weixin.qq.com/s/t2ftmpU9VfC9PawDYvepHA)
   - [竞赛中参数搜索技巧](https://mp.weixin.qq.com/s/Wx1WMvQQQUV46ckGbE3Eag)
   - [WWW2022-MetaBalance](https://mp.weixin.qq.com/s/iJixbNLVPfARxndI0u5Lcg)
 
