@@ -3,9 +3,9 @@
 - 训练范式
   - [training-paradigm](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-paradigm.md)
 - 训练参数
-  - [training-parameters](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-parameters)
+  - [training-parameters](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-parameters.md)
 - 训练问题  
-  - [training-problems](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-problems)
+  - [training-problems](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-problems.md)
 - Other Tricks
   - [大模型数据构造技巧](https://mp.weixin.qq.com/s/8SWFT5PydKdckydOIzDUTQ)
   - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
