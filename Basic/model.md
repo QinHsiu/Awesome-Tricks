@@ -16,5 +16,6 @@
   - 循环神经网络(RNN)
   - 卷积神经网络(CNN)
   - 自注意力机制(Self-Attention)
+    - [MQA与GQA](https://mp.weixin.qq.com/s/B3Uv0tD4y-zCvclxx0_mOA)
   - 双向transformer(BERT)
   - 图神经网络(GNN)
