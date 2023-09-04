@@ -12,3 +12,5 @@
   - [多损失训练](https://mp.weixin.qq.com/s/INDbcDcQ5SKwe9lOeYrSng)
 - 炼丹效率
   - [炼丹效率](https://mp.weixin.qq.com/s/kwhx9DxuORDvh0p5vz8oRA)
+- Cuda OOM
+  - [CUDA OOM](https://mp.weixin.qq.com/s/ecOtxBYcY2b-c30sHgFtMQ)     
