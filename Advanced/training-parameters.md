@@ -10,7 +10,8 @@
   - [机器学习中的超参数搜索方法](https://mp.weixin.qq.com/s/t2ftmpU9VfC9PawDYvepHA)
   - [竞赛中参数搜索技巧](https://mp.weixin.qq.com/s/Wx1WMvQQQUV46ckGbE3Eag)
   - [WWW2022-MetaBalance](https://mp.weixin.qq.com/s/iJixbNLVPfARxndI0u5Lcg)
-
+- XGBoost
+  - [参数设置技巧](https://mp.weixin.qq.com/s/OWkde_9FAT6TxoSr9AzlQw)   
 - 模型压缩
   - [模型压缩算法](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ)
  
