@@ -1,3 +1,6 @@
+- 数据分布
+  - [13种概率分布](https://mp.weixin.qq.com/s/bYKzuoocGfvcDf4OEHXL1g)
+       
 - 常规数据预处理
   - [经典数据分析方法总结](https://mp.weixin.qq.com/s/AeoI12_HlvF9ADVMFDtdgA)
   - [sklearn数据预处理](https://mp.weixin.qq.com/s/kDYfYqnpuRNuCHYTrzKBZw)
