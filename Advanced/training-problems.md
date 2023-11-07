@@ -11,6 +11,8 @@
   - [防止模型过拟合的技术汇总](https://mp.weixin.qq.com/s/gpNvRpRKSWLfDp2g13siUw)
 - 多损失
   - [多损失训练](https://mp.weixin.qq.com/s/INDbcDcQ5SKwe9lOeYrSng)
+- 数据不平衡问题
+  - [深入研究不平衡回归问题](https://mp.weixin.qq.com/s/xiI5NG-2rmiePMELMU7GFw)
 - 炼丹效率
   - [炼丹效率](https://mp.weixin.qq.com/s/kwhx9DxuORDvh0p5vz8oRA)
 - Cuda OOM
