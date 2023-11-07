@@ -21,6 +21,8 @@
     - [MQA与GQA](https://mp.weixin.qq.com/s/B3Uv0tD4y-zCvclxx0_mOA)
   - 双向transformer(BERT)
     - [BERT上分tricks](https://mp.weixin.qq.com/s/3FftA8jM2e-BkMMin3sywg)
+  - 自编码器
+    - [如何通俗理解扩散模型](https://mp.weixin.qq.com/s/sUJcphngRGqPOsEUPq8-ig)     
   - 图神经网络(GNN)
   - 模型的应用
     - [时间序列预测中的深度学习算法简介](https://mp.weixin.qq.com/s/Ry3GKwasWwnrYumiSKKdyA)
