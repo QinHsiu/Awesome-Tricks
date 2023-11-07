@@ -12,3 +12,4 @@
     - [常用优化算法-深度学习](https://mp.weixin.qq.com/s/3dtsdxNuQD4FD4gRQpN8fA)
     - [优化算法小结](https://mp.weixin.qq.com/s/kj8VulNMfEgVShnyE43G9A)
     - [优化器与学习率设置详解](https://mp.weixin.qq.com/s/dGbGc3KHITVLT-uCFe5_vw)
+    - [优化算法汇总](https://mp.weixin.qq.com/s/BUuugx8sC9QipYGe880Edw)
