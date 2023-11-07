@@ -10,4 +10,5 @@
 ### 参考资料：
 - [神经网络训练trick总结](https://mp.weixin.qq.com/s/QfSzmQT1XcZGphrD-z0qKA)
 - [为什么需要激活函数](https://mp.weixin.qq.com/s/UCSHqG6o6PqxQ3p5EjTJzw)
+- [softmax激活函数](https://mp.weixin.qq.com/s/KaJGNZ8x9CtsSFDQYcYq-w)
   
