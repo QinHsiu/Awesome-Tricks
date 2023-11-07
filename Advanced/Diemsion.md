@@ -34,3 +34,4 @@
   - 7.Training Transformers with 4-bit Integers:https://arxiv.org/pdf/2306.11987.pdf
   - 8.大模型int8量化技术：https://mp.weixin.qq.com/s/_JirS9knfTlta0qOzo3i6A
   - 9.大模型蒸馏：https://github.com/google-research/distilling-step-by-step
+  - 10.推荐模型中embedding的压缩方式：https://mp.weixin.qq.com/s/l4w3FyoF48bi7vR_LhOdyw
