@@ -10,3 +10,4 @@
     - [优化算法讲解](https://mp.weixin.qq.com/s/AEb5a0jct-5v8w2kV4iQXg)
     - [常用的优化算法-机器学习](https://mp.weixin.qq.com/s/G6wzoPZL_hflSVr3dWY-Cg)
     - [常用优化算法-深度学习](https://mp.weixin.qq.com/s/3dtsdxNuQD4FD4gRQpN8fA)
+    - [优化算法小结](https://mp.weixin.qq.com/s/kj8VulNMfEgVShnyE43G9A)
