@@ -8,6 +8,7 @@
   - [10种常用方法用于缓解过拟合](https://mp.weixin.qq.com/s/ErJc-qMRlea58iVby40aSA)
   - [金融量化防止过拟合](https://mp.weixin.qq.com/s/VXUCMIgNwGhYvHBdYQ1BFw)
   - [缓解模型过拟合](https://mp.weixin.qq.com/s/DygvuXbSL-798VH4czJspA)
+  - [防止模型过拟合的技术汇总](https://mp.weixin.qq.com/s/gpNvRpRKSWLfDp2g13siUw)
 - 多损失
   - [多损失训练](https://mp.weixin.qq.com/s/INDbcDcQ5SKwe9lOeYrSng)
 - 炼丹效率
