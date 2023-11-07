@@ -24,3 +24,4 @@
   - [判别式与生成式](https://mp.weixin.qq.com/s/kH71KhsfxCIdIi37z5IFEA)
   - [双塔模型张点tricks](https://mp.weixin.qq.com/s/DZ3xRIIOsDSHBvsDGburAQ)
   - [VAE与CVAE](https://mp.weixin.qq.com/s/O7tXTzpmoasmz1t3Z4Ag2A)
+  - [常用机器学习模型的优缺点](https://mp.weixin.qq.com/s/vg4x73_TXaLKWE5lyy3SbQ)
