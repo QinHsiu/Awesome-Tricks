@@ -21,3 +21,6 @@
   
 - 大模型幻觉问题
   - [大模型微调的危害](https://mp.weixin.qq.com/s/d8dWpfdLDJ_0xZzTW3TPRw)
+
+- 大模型推理问题
+  - [端到端推理](https://mp.weixin.qq.com/s/LJWxzDMdkcar61-rOnzD4A)

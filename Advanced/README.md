@@ -8,6 +8,7 @@
   - [training-problems](https://github.com/QinHsiu/Awesome-Tricks/tree/main/Advanced/training-problems.md)
 - Other Tricks
   - [大模型数据构造技巧](https://mp.weixin.qq.com/s/8SWFT5PydKdckydOIzDUTQ)
+  - [大模型落地综述](https://mp.weixin.qq.com/s/nmnorI2RqSJV1Gjcu0YtxQ)
   - [训练集与测试集Gap](https://mp.weixin.qq.com/s/BqdEoTDuS_FEukY5Ez-wCA)
   - [样本不均衡](https://mp.weixin.qq.com/s/CxKww2VWanDTzG9VBef6dg)
   - [模型压缩](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ) [深度神经网络的模型压缩](https://mp.weixin.qq.com/s/PXjNjAzGlp34eBse3OrVuA) [原始论文](https://arxiv.org/abs/1412.6550)

@@ -10,12 +10,25 @@
   - [机器学习中的超参数搜索方法](https://mp.weixin.qq.com/s/t2ftmpU9VfC9PawDYvepHA)
   - [竞赛中参数搜索技巧](https://mp.weixin.qq.com/s/Wx1WMvQQQUV46ckGbE3Eag)
   - [WWW2022-MetaBalance](https://mp.weixin.qq.com/s/iJixbNLVPfARxndI0u5Lcg)
+
 - XGBoost
   - [参数设置技巧](https://mp.weixin.qq.com/s/OWkde_9FAT6TxoSr9AzlQw)   
+
 - 模型压缩
   - [加快LLM推理速度(2080Ti跑70B)](https://mp.weixin.qq.com/s/FqxwoR-466_je-7beFZh1A)
+  - [扩散模型加速](https://mp.weixin.qq.com/s/u3RN-Ci4iReKNYHQW7ghgA)
   - [模型压缩算法](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ)
+  - [大模型训练Scaling Law](https://mp.weixin.qq.com/s/lSLJhyT5LKuKtZMD3EaR_A)
   - [模型压缩技术-推荐中的应用](https://mp.weixin.qq.com/s/Z5aRBj6AEXGEkpikFkOcEw)
 
 - 参数高效微调
   - [使用LoRA技术微调RoBert、Llama2、Mistral](https://mp.weixin.qq.com/s/UX561hFEtFNr3WZ8O88Iig)
+
+- 提示工程
+  - [提示代替微调](https://mp.weixin.qq.com/s/28ltYJ7h14ooSMGGQV7Brg)
+
+- 大模型修复bad case
+  - [大模型修复bad case](https://mp.weixin.qq.com/s/mLmL19FI-ZpX9BMJWpY2rw)
+
+- 缓解LLM幻觉
+  - [OPERA-基于注意力惩罚与回退机制](https://mp.weixin.qq.com/s/SOnP9quuRXKOB-qImIYLGg)
