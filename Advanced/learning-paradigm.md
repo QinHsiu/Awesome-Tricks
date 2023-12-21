@@ -1,6 +1,7 @@
 - 使用神经ODE代替原先的反向传播
     - [四万字详解Neural ODE：用神经网络去刻画非离散的状态变化](https://mp.weixin.qq.com/s/CDJ6OABI5iDNUqJbaLrGng)
 - 学习范式
+    - [面向NLP的大模型prompt设计](https://mp.weixin.qq.com/s/jHSYPLGycPz_pxKCQEYBhA)
     - [万字入门增量学习](https://mp.weixin.qq.com/s/hRwZWLWgA81Dhb9B_rIk6Q)
     - [增量学习综述](https://mp.weixin.qq.com/s/qL6aT1hVI7fd_lWQTSThEw)
     - [如何更好地进行预训练](https://mp.weixin.qq.com/s/GELxqfDi9p5VfzCHL2Wc7w)

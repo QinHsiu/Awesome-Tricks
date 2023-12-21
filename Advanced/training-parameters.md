@@ -13,5 +13,9 @@
 - XGBoost
   - [参数设置技巧](https://mp.weixin.qq.com/s/OWkde_9FAT6TxoSr9AzlQw)   
 - 模型压缩
+  - [加快LLM推理速度(2080Ti跑70B)](https://mp.weixin.qq.com/s/FqxwoR-466_je-7beFZh1A)
   - [模型压缩算法](https://mp.weixin.qq.com/s/Z3dbhoUcXSCY5xCFtSy5hQ)
- 
+  - [模型压缩技术-推荐中的应用](https://mp.weixin.qq.com/s/Z5aRBj6AEXGEkpikFkOcEw)
+
+- 参数高效微调
+  - [使用LoRA技术微调RoBert、Llama2、Mistral](https://mp.weixin.qq.com/s/UX561hFEtFNr3WZ8O88Iig)

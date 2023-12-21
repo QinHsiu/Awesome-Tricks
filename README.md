@@ -16,6 +16,7 @@ some amazing tricks for deep learning
   - training-problems 训练问题
 - Others
   - [C++部署](https://mp.weixin.qq.com/s/vu9vfMrPGhznSpGYIE-4eA)
+  - [算法工程师踩坑记录](https://mp.weixin.qq.com/s/1K_lJnr2AmBqWiRPrzQ5Vw)
   - [深度学习tricks](https://mp.weixin.qq.com/s/PkUDeBmdvH29-tdH9n8oDw)
   - [深度学习tricks](https://mp.weixin.qq.com/s/mzaZ0MpfzR3tJOLQzzJfSw)
   - [深度学习刷SOTA的trick](https://mp.weixin.qq.com/s/6WwwGFFqYkioSzonfZiw2A)

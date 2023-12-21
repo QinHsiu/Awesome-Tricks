@@ -1,6 +1,7 @@
 - 内存溢出
     - [一行代码缓解OOM](https://mp.weixin.qq.com/s/VBagnjXBVp135nBMfAyk5Q)
 - 分布式训练
+  - [大模型分布式训练实践](https://mp.weixin.qq.com/s/SN6_uOsj18_5JZIKRYFkzA)
   - [框架中的分布式训练](https://mp.weixin.qq.com/s/yJSmWe3jMGdrAYERjeNiLQ)
 - 模型过拟合
   -  ![avator](../Assets/overfitting.png)
@@ -16,4 +17,7 @@
 - 炼丹效率
   - [炼丹效率](https://mp.weixin.qq.com/s/kwhx9DxuORDvh0p5vz8oRA)
 - Cuda OOM
-  - [CUDA OOM](https://mp.weixin.qq.com/s/ecOtxBYcY2b-c30sHgFtMQ)     
+  - [CUDA OOM](https://mp.weixin.qq.com/s/ecOtxBYcY2b-c30sHgFtMQ) 
+  
+- 大模型幻觉问题
+  - [大模型微调的危害](https://mp.weixin.qq.com/s/d8dWpfdLDJ_0xZzTW3TPRw)
